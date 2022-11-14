@@ -26,9 +26,10 @@ This program can be run through a browser using the link to the the deployed app
 - Run "npm start" to start the backend and serve the client.
 
 - Go to the url of the application (http//:localhost:3001) to begin using it.
+## Screenshot
 
 ## Usage
-
+[URL](https://text-editor123.herokuapp.com/)
 Use the deployed URL to open the deployed application.
 Type any code snippet or notes in the editor. The content will be saved in the IndexedDB when the window is unfocused. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB. 
 
@@ -38,12 +39,20 @@ The application works without an internet connection.
 
 ##  Technologies used
 
-Node.js, Express.js, IndexedDB, PWA, Heroku
+*Node.js, 
+Express.js,
+IndexedDB, 
+PWA, 
+Heroku
 
 ## License
 
 Text Editor is available under the MIT License.
 
 ## Deployed Link
-
+[URL](https://text-editor123.herokuapp.com/)
 ## Questions
+If you have any questions about this projects, please contact me directly at jayita.chowdhury.1987@gmail.com. </br>
+You can view more of my projects at 
+[github](https://github.com/jayita87)
+
