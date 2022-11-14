@@ -39,11 +39,11 @@ The application works without an internet connection.
 
 ##  Technologies used
 
-*Node.js, 
-Express.js,
-IndexedDB, 
-PWA, 
-Heroku
+* Node.js, </br>
+* Express.js, </br>
+* IndexedDB, </br>
+* PWA, </br>
+* Heroku
 
 ## License
 
