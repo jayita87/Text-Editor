@@ -27,6 +27,7 @@ This program can be run through a browser using the link to the the deployed app
 
 - Go to the url of the application (http//:localhost:3001) to begin using it.
 ## Screenshot
+<img width="1270" alt="Screen Shot 2022-11-14 at 8 48 12 AM" src="https://user-images.githubusercontent.com/107072905/201704253-44734ba5-fb45-42d5-89b4-16bc4058c1be.png">
 
 ## Usage
 [URL](https://text-editor123.herokuapp.com/)
