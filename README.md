@@ -12,7 +12,6 @@ JATE is a text editor that runs in the browser. Its a single page application th
 - [Usage](#usage)
 - [Technologies used](#technologies-used)
 - [License](#license)
-- [How to Contribute](#how-to-contribute)
 - [Deployed_Link](#deployed-link)
 - [Questions](#questions)
 
@@ -27,3 +26,24 @@ This program can be run through a browser using the link to the the deployed app
 - Run "npm start" to start the backend and serve the client.
 
 - Go to the url of the application (http//:localhost:3001) to begin using it.
+
+## Usage
+
+Use the deployed URL to open the deployed application.
+Type any code snippet or notes in the editor. The content will be saved in the IndexedDB when the window is unfocused. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB. 
+
+If the Install button is clicked, the web application will be downloaded as an icon in your desktop.
+
+The application works without an internet connection.
+
+##  Technologies used
+
+Node.js, Express.js, IndexedDB, PWA, Heroku
+
+## License
+
+Text Editor is available under the MIT License.
+
+## Deployed Link
+
+## Questions
