@@ -12,9 +12,6 @@ module.exports = () => {
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js',
-      editor: './src/js/editor.js',
-      header: './src/js/header.js',
-      index: './src/js/index.js'
     },
     output: {
       filename: '[name].bundle.js',
@@ -23,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'JATE'
+        title: 'Text Editor'
       }),
       // Injects our custom service worker
       new InjectManifest({
@@ -34,7 +31,7 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Just Another Text Editor',
+        name: 'Text Editor',
         short_name: 'JATE',
         description: 'Text Editor',
         background_color: '#225ca3',
